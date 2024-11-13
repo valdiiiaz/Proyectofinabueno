@@ -1,0 +1,1 @@
+print("Bienvenido a la página de ticketmaster \n Aqui puedes comprar los boletos de los eventos que quieras")
